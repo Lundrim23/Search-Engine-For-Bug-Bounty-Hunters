@@ -31,7 +31,7 @@ Open the index.html file in your web browser.
 
 You can simply double-click the file to open it in your default browser or use a live server extension if using a code editor like VSCode.
 
-Usage
+## Usage
 To use the search engine, follow these steps:
 
 Enter a target domain in the input field.
@@ -40,14 +40,14 @@ A new tab will open with the search results based on the selected query.
 Contributing
 Contributions to improve the Bug Bounty Search Engine are welcome. Please follow these steps to contribute:
 
-Fork the repository.
+## Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -am 'Add some feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
 Please ensure your commits are well-formed and your code is clean.
 
-Contact
+## Contact
 For any additional questions or feedback, please contact ll0rdi(Me) on Discord.
 
-Thank you for checking out the Bug Bounty Search Engine. Happy hunting!
+## Thank you for checking out the Bug Bounty Search Engine. Happy hunting!
