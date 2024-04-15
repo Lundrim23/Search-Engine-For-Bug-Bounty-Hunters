@@ -41,11 +41,11 @@ Contributing
 Contributions to improve the Bug Bounty Search Engine are welcome. Please follow these steps to contribute:
 
 ## Fork the repository.
-- **Create a new branch (git checkout -b feature-branch).
-- **Make your changes and commit them (git commit -am 'Add some feature').
-- **Push to the branch (git push origin feature-branch).
-- **Create a new Pull Request.
-- **Please ensure your commits are well-formed and your code is clean.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
+- Please ensure your commits are well-formed and your code is clean.
 
 ## Contact
 For any additional questions or feedback, please contact ll0rdi(Me) on Discord.
