@@ -48,6 +48,6 @@ Contributions to improve the Bug Bounty Search Engine are welcome. Please follow
 - Please ensure your commits are well-formed and your code is clean.
 
 ## Contact
-For any additional questions or feedback, please contact ll0rdi(Me) on Discord.
+**For any additional questions or feedback, please contact ll0rdi(Me) on Discord.**
 
 ## Thank you for checking out the Bug Bounty Search Engine. Happy hunting!
