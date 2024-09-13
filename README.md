@@ -6,9 +6,6 @@ This repository contains the Search Engine For Bug Bounty Hunters, a web applica
 ## Features
 - **Dynamic Search Queries**: Users can select from a variety of predefined search queries that target specific types of data or misconfigurations on the web.
 - **User-Friendly Interface**: A simple, intuitive interface with a central search input and multiple buttons for different types of searches.
-- **Responsive Design**: The application is fully responsive, making it usable on both desktop and mobile devices.
-- **Hacker Aesthetic**: A dark, neon-themed interface that appeals to the cybersecurity community.
-
 ## Technologies Used
 - HTML
 - CSS
